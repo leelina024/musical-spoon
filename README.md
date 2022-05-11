@@ -1,5 +1,5 @@
 ## musical-spoon
-# Smoking Data Mining Using R and ML
+# Smoking Data Mining Using R and ML algorithms.
 
 Pulling smoking predition data from [Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset "Kaggle").
 
