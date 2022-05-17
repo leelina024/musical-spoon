@@ -1,4 +1,3 @@
-## 
 rm(list=ls())
 
 d <- read.csv(file.choose(), header = TRUE, stringsAsFactors = TRUE)
